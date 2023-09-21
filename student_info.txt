@@ -1,0 +1,21 @@
+Name: sishva
+ID: 101
+Grade: a
+Marks-1: 56
+Marks-2: 78
+Marks-3: 99
+
+Name: durga
+ID: 102
+Grade: b
+Marks-1: 5
+Marks-2: 76
+Marks-3: 88
+
+Name: nani
+ID: 103
+Grade: a
+Marks-1: 77
+Marks-2: 91
+Marks-3: 78
+
