@@ -1,0 +1,12 @@
+product code: 3456
+product name: soap
+product price: $45.00
+product quantity: 5
+total amount: $225.00
+
+product code: 7890
+product name: shampoo
+product price: $567.00
+product quantity: 5
+total amount: $2835.00
+
